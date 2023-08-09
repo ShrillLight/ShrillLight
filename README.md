@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Serverless Resume</b>
+  - [Repo Link](https://github.com/ShrillLight/Serverless Resume)
+    
 - <b>Guestbook</b>
-  - [Guestbook](https://github.com/ShrillLight/guestbook)
+  - [Repo Link](https://github.com/ShrillLight/guestbook)
 
 <h2> 🤳 Connect with me:</h2>
 
