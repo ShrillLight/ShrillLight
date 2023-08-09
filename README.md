@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Serverless Resume</b>
-  - [Repo Link](https://github.com/ShrillLight/Serverless Resume)
+  - [Repo Link](https://github.com/ShrillLight/Serverless-Resume)
     
 - <b>Guestbook</b>
   - [Repo Link](https://github.com/ShrillLight/guestbook)
