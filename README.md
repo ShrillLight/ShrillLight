@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- <b>WordPress Website with AWS Backend</b> [Website](https://3.22.36.205.nip.io/) (Click past the http warnings. A proper SSL/TLS certificate is coming soon.)
+- <b>AWS WordPress Website</b> [Website](https://3.22.36.205.nip.io/) (Click past the http warnings. A proper SSL/TLS certificate is coming soon.)
   - Developed a fully featured WordPress website with an AWS Lightsail backend for a small business. This saved the business $5k annually in hosting costs and made it easy for the owners to manage their resources.
 
 - <b>Serverless Web Resume</b> [Website](https://www.devjrc.com/) | [Repo](https://github.com/ShrillLight/AWS-Serverless-Resume)
