@@ -6,7 +6,7 @@
   - Built a fully featured WordPress website for a small business, leveraging AWS Lightsail for backend hosting to enable simple resource management and a user-friendly interface for the owner.
 
 - <b>Serverless Web Resume</b> [Website](https://www.devjrc.com/) | [Repo](https://github.com/ShrillLight/AWS-Serverless-Resume)
-  - <b>Full-Stack AWS Deployment:</b> Developed a responsive website using HTML/CSS/JavaScript stored in Amazon S3, secured with CloudFront HTTPS, and integrated with a serverless backend using AWS Lambda, API Gateway, and DynamoDB for dynamic visitor tracking.
+  - Developed a responsive website using HTML/CSS/JavaScript stored in Amazon S3, secured with CloudFront HTTPS, and integrated with a serverless backend using AWS Lambda, API Gateway, and DynamoDB for dynamic visitor tracking.
 
 <h2> 🤳 Connect with me:</h2>
 
