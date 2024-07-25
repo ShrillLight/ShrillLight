@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph! <br/><a href="https://linkedin.com/in/josephclaycodes/">Cloud Engineer</a> && <a href="https://github.com/ShrillLight">Software Developer</a>
+<h1>Hi, I'm Joseph! <br/> A <a href="https://linkedin.com/in/josephclaycodes/">Cloud Engineer</a> && <a href="https://github.com/ShrillLight"> Developer</a>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
