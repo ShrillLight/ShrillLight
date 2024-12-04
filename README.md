@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- <b>AWS WordPress Website</b> [Website](https://3.22.36.205.nip.io/) (Click past the http warnings. A proper SSL/TLS certificate is coming soon.)
+- <b>AWS WordPress Website</b> [Website](https://prosperityfinancialmtg.com/)
   - Built a fully featured WordPress website for a small business, leveraging AWS Lightsail for backend hosting to enable simple resource management and a user-friendly interface for the owner.
 
 - <b>Serverless Web Resume</b> [Website](https://www.devjrc.com/) | [Repo](https://github.com/ShrillLight/AWS-Serverless-Resume)
